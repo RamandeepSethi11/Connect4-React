@@ -2,7 +2,7 @@
   "name": "connect4_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://RamandeepSethi11.github.io/Connect4-React"
+  "homepage": "https://RamandeepSethi11.github.io/Connect4-React"
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
