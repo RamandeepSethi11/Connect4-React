@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Connect4-React/static/css/main.3ef62121.chunk.css",
+    "main.js": "/Connect4-React/static/js/main.712d8b8f.chunk.js",
+    "main.js.map": "/Connect4-React/static/js/main.712d8b8f.chunk.js.map",
+    "runtime-main.js": "/Connect4-React/static/js/runtime-main.20b8537f.js",
+    "runtime-main.js.map": "/Connect4-React/static/js/runtime-main.20b8537f.js.map",
+    "static/js/2.20bf7d54.chunk.js": "/Connect4-React/static/js/2.20bf7d54.chunk.js",
+    "static/js/2.20bf7d54.chunk.js.map": "/Connect4-React/static/js/2.20bf7d54.chunk.js.map",
+    "static/js/3.61eaa14a.chunk.js": "/Connect4-React/static/js/3.61eaa14a.chunk.js",
+    "static/js/3.61eaa14a.chunk.js.map": "/Connect4-React/static/js/3.61eaa14a.chunk.js.map",
+    "index.html": "/Connect4-React/index.html",
+    "static/css/main.3ef62121.chunk.css.map": "/Connect4-React/static/css/main.3ef62121.chunk.css.map",
+    "static/js/2.20bf7d54.chunk.js.LICENSE.txt": "/Connect4-React/static/js/2.20bf7d54.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Connect4-React/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20b8537f.js",
+    "static/js/2.20bf7d54.chunk.js",
+    "static/css/main.3ef62121.chunk.css",
+    "static/js/main.712d8b8f.chunk.js"
+  ]
+}
