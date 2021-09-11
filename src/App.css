@@ -1,0 +1,128 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  /* min-height: 100vh; */
+  display: flex;
+  /* flex-direction: column;
+  align-items: center; */
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.Connect4-Board {
+  background-color: cornflowerblue;
+  height: 70px;
+  width: 70px;
+  float: center;
+  margin: 36px 0 0 210px;
+}
+
+.White {
+  width: 50px;
+  height: 50px;
+  background: white;
+  display: inline-block;
+  box-sizing: border-box;
+  border-radius: 50%;
+  margin: 0 5px 0 0;
+  cursor: pointer;
+}
+
+.background-black {
+  background-color: black;
+}
+
+.Yellow {
+  color: yellowgreen;
+}
+
+.Orange {
+  color: orangered;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.gameCell {
+  height: 70px;
+  width: 70px;
+  background-color: #1990ff;
+  cursor: pointer;
+}
+
+.whiteCircle,
+.redCircle,
+.yellowCircle {
+  height: 60px;
+  width: 60px;
+  border-radius: 100px;
+}
+
+.whiteCircle {
+  background-color: #fff;
+}
+
+.redCircle {
+  background-image: linear-gradient(
+    to left,
+    violet,
+    green,
+    blue,
+    yellow,
+    orange,
+    red
+  );
+  /* background-color: rgb(251, 42, 42); */
+  transition: background-color 0.5s;
+}
+
+.yellowCircle {
+  background-color: rgb(243, 239, 20);
+  transition: background-color 0.5s;
+}
+body {
+  font-family: cursive !important;
+}
+table {
+  margin: 55px 0 0 410px;
+}
+.btn {
+  background-color: cadetblue;
+  color: white;
+  font-size: 17px;
+  margin: 14px 25px 0 0;
+  font-family: cursive !important;
+  border: 1px solid black;
+  float: right;
+  cursor: pointer;
+}
+.msg {
+  font-weight: bold;
+  color: indigo;
+  font-size: 20px;
+}
